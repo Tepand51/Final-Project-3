@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1709040573571,2524,Get User,200,OK,Thread Group 1-1,text,true,,2052,216,1,1,https://thinking-tester-contact-list.herokuapp.com/login,2524,0,2181
+1709040576096,30378,Post Add Contact,503,Service Unavailable,Thread Group 1-1,text,false,,1224,592,1,1,https://thinking-tester-contact-list.herokuapp.com/addContact,30378,0,0
+1709046260114,1870,Get User,200,OK,Thread Group 1-1,text,true,,2052,216,1,1,https://thinking-tester-contact-list.herokuapp.com/login,1860,0,1580
+1709046262002,30262,Post Add Contact,503,Service Unavailable,Thread Group 1-1,text,false,,1220,592,1,1,https://thinking-tester-contact-list.herokuapp.com/addContact,30262,0,0

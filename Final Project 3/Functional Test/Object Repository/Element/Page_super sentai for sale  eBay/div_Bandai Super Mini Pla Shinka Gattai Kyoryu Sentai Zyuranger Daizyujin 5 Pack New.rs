@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bandai Super Mini Pla Shinka Gattai Kyoryu Sentai Zyuranger Daizyujin 5 Pack New</name>
+   <tag></tag>
+   <elementGuidId>544f5194-e946-45d1-aae8-1353e441fef9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#item5e0fa0b0b5 > div.s-item__wrapper.clearfix > div.s-item__info.clearfix > a.s-item__link > div.s-item__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='item5e0fa0b0b5']/div/div[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1ec2748-02ac-43bf-85f4-97a4f91c6532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s-item__title</value>
+      <webElementGuid>689579c1-5f8a-4587-8ffa-30e9ccdc02de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bandai Super Mini Pla Shinka Gattai Kyoryu Sentai Zyuranger Daizyujin 5 Pack New</value>
+      <webElementGuid>41eb2fa7-2a6e-446a-886e-1ed1d43048c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item5e0fa0b0b5&quot;)/div[@class=&quot;s-item__wrapper clearfix&quot;]/div[@class=&quot;s-item__info clearfix&quot;]/a[@class=&quot;s-item__link&quot;]/div[@class=&quot;s-item__title&quot;]</value>
+      <webElementGuid>98d8b868-4ef5-4142-bdbc-e14fa2d605b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='item5e0fa0b0b5']/div/div[2]/a/div</value>
+      <webElementGuid>121105cf-da34-4337-8694-985ff0a332a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='watchlist'])[1]/following::div[3]</value>
+      <webElementGuid>1681102b-6163-441e-b9dc-02b4c4653476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opens in a new window or tab'])[2]/preceding::div[1]</value>
+      <webElementGuid>23572ba2-eafd-4d13-9d2b-4a501ee85f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div[2]/a/div</value>
+      <webElementGuid>edb5c4e7-a35c-431e-8340-b0628326ea40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bandai Super Mini Pla Shinka Gattai Kyoryu Sentai Zyuranger Daizyujin 5 Pack New' or . = 'Bandai Super Mini Pla Shinka Gattai Kyoryu Sentai Zyuranger Daizyujin 5 Pack New')]</value>
+      <webElementGuid>dbb462a1-ecbd-4788-b36e-fc83cd7fd216</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

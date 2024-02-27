@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Bandai Super Mini Pla Shinka Gattai Kyoryu Sentai Zyuranger Daizyujin 5 Pack New (1)</name>
+   <tag></tag>
+   <elementGuidId>33941257-cd64-4cd6-8863-356fefa3562a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#item5e0fa0b0b5 > div.s-item__wrapper.clearfix > div.s-item__info.clearfix > a.s-item__link > div.s-item__title > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='item5e0fa0b0b5']/div/div[2]/a/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>189ed83d-d383-4c21-b2cb-20fa734cdcbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>f14d5b22-96a5-47c6-8bbf-f42cea459ed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>8e8717cc-0b3d-4e10-abd3-6cd1d35b3ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bandai Super Mini Pla Shinka Gattai Kyoryu Sentai Zyuranger Daizyujin 5 Pack New</value>
+      <webElementGuid>79578d30-e77b-4392-8f8f-e4aa84e1236e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item5e0fa0b0b5&quot;)/div[@class=&quot;s-item__wrapper clearfix&quot;]/div[@class=&quot;s-item__info clearfix&quot;]/a[@class=&quot;s-item__link&quot;]/div[@class=&quot;s-item__title&quot;]/span[1]</value>
+      <webElementGuid>6b880621-fe6a-4995-8b69-45e372edd7c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='item5e0fa0b0b5']/div/div[2]/a/div/span</value>
+      <webElementGuid>b6a6c818-b49e-4972-ae2e-0b1c9581209f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='watchlist'])[1]/following::span[1]</value>
+      <webElementGuid>c2dfed49-94bc-4cbc-9b31-09316b9049df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opens in a new window or tab'])[2]/preceding::span[1]</value>
+      <webElementGuid>e7e14d03-8194-49ed-b6f2-946cb4b52408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand New'])[2]/preceding::span[2]</value>
+      <webElementGuid>d520aa36-3abb-4001-930a-b8a9daf7de5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bandai Super Mini Pla Shinka Gattai Kyoryu Sentai Zyuranger Daizyujin 5 Pack New']/parent::*</value>
+      <webElementGuid>76935c5c-9f11-4b4b-a1a4-2740f6138fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div[2]/a/div/span</value>
+      <webElementGuid>951fde56-c73e-402e-824a-423ff2089b7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Bandai Super Mini Pla Shinka Gattai Kyoryu Sentai Zyuranger Daizyujin 5 Pack New' or . = 'Bandai Super Mini Pla Shinka Gattai Kyoryu Sentai Zyuranger Daizyujin 5 Pack New')]</value>
+      <webElementGuid>87b0846b-c6ab-4ff2-ae24-f8b9c651784e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

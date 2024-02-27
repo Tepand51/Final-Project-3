@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add to cart</name>
+   <tag></tag>
+   <elementGuidId>08a4a3a1-9c90-44f4-9d23-86d5c984f9c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vim.x-atc-action.overlay-placeholder > a.ux-call-to-action.fake-btn.fake-btn--fluid.fake-btn--large.fake-btn--primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContent']/div/div[6]/ul/li[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>68692c08-c205-4830-aba7-2a3a0f606b46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>ux-call-to-action</value>
+      <webElementGuid>33386322-1b3c-4fea-9634-e6620585a395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>05219015-0ac0-4caa-b371-1320ea85943c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_sp</name>
+      <type>Main</type>
+      <value>p4429486.l1473</value>
+      <webElementGuid>58197274-5ac3-4667-9a64-c60b17a8cf6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-viewport</name>
+      <type>Main</type>
+      <value>{&quot;trackableId&quot;:&quot;01HQMJSWPMKG2V2QVBQ3T0WFBT&quot;}</value>
+      <webElementGuid>64703fde-92c6-47c8-bb90-f13d4108ba5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ux-call-to-action fake-btn fake-btn--fluid fake-btn--large fake-btn--primary</value>
+      <webElementGuid>81bacd30-fd93-4cba-a48b-26886cfe5be0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://cart.payments.ebay.com/sc/add</value>
+      <webElementGuid>d3f4c6e6-d431-4a94-a837-4e35d6617c1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>cac44d34-72cb-4cfd-b447-8a5365c9377d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;vim d-vi-evo-region&quot;]/div[@class=&quot;vim vi-evo-row-gap&quot;]/ul[@class=&quot;x-buybox-cta mar-t-20&quot;]/li[2]/div[@class=&quot;vim x-atc-action overlay-placeholder&quot;]/a[@class=&quot;ux-call-to-action fake-btn fake-btn--fluid fake-btn--large fake-btn--primary&quot;]</value>
+      <webElementGuid>cf127209-4c4f-43ef-82ad-88629daf4dc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContent']/div/div[6]/ul/li[2]/div/a</value>
+      <webElementGuid>863b3a79-9fde-4b48-ae65-3aad890a10e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy It Now'])[1]/following::a[1]</value>
+      <webElementGuid>5dd86ed2-2898-4fb9-a55e-63bf172d9022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::a[2]</value>
+      <webElementGuid>70dda820-66ee-4743-bd82-4d8cde54cbcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to watchlist'])[1]/preceding::a[1]</value>
+      <webElementGuid>08bbbc61-aa66-4616-8ed8-3425bcf3667d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://cart.payments.ebay.com/sc/add')]</value>
+      <webElementGuid>e01898c7-11a3-422d-bf10-fa545a75b95a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/a</value>
+      <webElementGuid>79f9fea5-e57a-4c24-b0f7-11246ec33538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://cart.payments.ebay.com/sc/add' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
+      <webElementGuid>05b41b08-6b31-403d-84e2-650ac4c6c9f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

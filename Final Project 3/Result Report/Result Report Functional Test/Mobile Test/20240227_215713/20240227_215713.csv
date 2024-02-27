@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Mobile Test,,,,27-02-2024 21:57:28,27-02-2024 21:59:23,1m - 55.448s,PASSED
+,,,,,,,
+Test Cases/Mobile Test/Login,,,,27-02-2024 21:57:28,27-02-2024 21:58:40,1m - 11.247s,PASSED
+"startApplication(""C:\Users\tegar\Downloads\Shopee 3.3 Grand Fashion Sale_3.20.10_Apkpure.apk"", true)",,,,27-02-2024 21:57:29,27-02-2024 21:58:20,50.611s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/Login/android.widget.Button - MULAI""), 0)",,,,27-02-2024 21:58:20,27-02-2024 21:58:22,1.925s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/Login/android.widget.ImageView""), 0)",,,,27-02-2024 21:58:22,27-02-2024 21:58:28,6.217s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/Login/android.view.ViewGroup""), 0)",,,,27-02-2024 21:58:28,27-02-2024 21:58:29,1.268s,PASSED
+"setText(findTestObject(""Object Repository/Element_Mobile/Login/android.widget.EditText - No. HandphoneEmailUsername""), ""tegarpandji51@gmail.com"", 0)",,,,27-02-2024 21:58:29,27-02-2024 21:58:33,3.504s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/Login/android.widget.EditText - Password""), 0)",,,,27-02-2024 21:58:33,27-02-2024 21:58:34,1.482s,PASSED
+"setText(findTestObject(""Object Repository/Element_Mobile/Login/android.widget.EditText - Password""), ""Tegarasmoro5123"", 0)",,,,27-02-2024 21:58:34,27-02-2024 21:58:37,2.851s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/Login/android.widget.TextView - Log In""), 0)",,,,27-02-2024 21:58:37,27-02-2024 21:58:39,1.980s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/Login/android.widget.TextView - Atur Nanti""), 0)",,,,27-02-2024 21:58:39,27-02-2024 21:58:40,0.348s,PASSED
+,,,,,,,
+Test Cases/Mobile Test/Home,,,,27-02-2024 21:58:40,27-02-2024 21:59:08,28.448s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/android.widget.FrameLayout (1)""), 0)",,,,27-02-2024 21:58:40,27-02-2024 21:58:44,4.010s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/android.widget.TextView - Box Container""), 0)",,,,27-02-2024 21:58:44,27-02-2024 21:58:57,13.128s,PASSED
+"setText(findTestObject(""Object Repository/Element_Mobile/android.widget.EditText""), ""Megazord"", 0)",,,,27-02-2024 21:58:57,27-02-2024 21:59:01,3.509s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/android.view.ViewGroup (1)""), 0)",,,,27-02-2024 21:59:01,27-02-2024 21:59:02,1.302s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/android.widget.TextView - Megazord Part - Abaranger, Ninja Steel, Folcon""), 0)",,,,27-02-2024 21:59:02,27-02-2024 21:59:04,2.208s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/android.view.ViewGroup (2)""), 0)",,,,27-02-2024 21:59:04,27-02-2024 21:59:08,3.814s,PASSED
+,,,,,,,
+Test Cases/Mobile Test/Checkout,,,,27-02-2024 21:59:08,27-02-2024 21:59:23,15.285s,PASSED
+"comment(""checkout"")",,,,27-02-2024 21:59:08,27-02-2024 21:59:08,0.123s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/android.view.ViewGroup (3)""), 0)",,,,27-02-2024 21:59:08,27-02-2024 21:59:10,1.392s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/android.view.ViewGroup (4)""), 0)",,,,27-02-2024 21:59:10,27-02-2024 21:59:12,1.786s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/android.view.ViewGroup (7)""), 0)",,,,27-02-2024 21:59:12,27-02-2024 21:59:14,2.805s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/android.widget.ImageView (1)""), 0)",,,,27-02-2024 21:59:14,27-02-2024 21:59:18,3.909s,PASSED
+"tap(findTestObject(""Object Repository/Element_Mobile/android.view.ViewGroup (1) (1)""), 0)",,,,27-02-2024 21:59:18,27-02-2024 21:59:20,2.140s,PASSED
+closeApplication(),,,,27-02-2024 21:59:20,27-02-2024 21:59:23,2.834s,PASSED

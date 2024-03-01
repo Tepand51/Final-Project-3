@@ -23,6 +23,8 @@ A.Menggunakan Website Ebay dengan pencarian super sentai
 	e. Test Suites
 		berisikan :
 			a. Web Test : yang menjalankan semua Webtest yang dimulai dari Login,Home dan Checkout
+	f. hasil
+		tidak ada yang error ketika menjalan kan suites 
 
 B.Menggunakan Android pada Applikasi Shopee pencarian Megazord
 	a. Website Test
@@ -52,5 +54,14 @@ B.Menggunakan Android pada Applikasi Shopee pencarian Megazord
 	c. Test Suites
 		berisikan :
 		a. Mobile Test : yang menjalankan semua mobiletest yang dimulai dari Login,Home dan Checkout
+	d. hasil
+		tidak ada yang error ketika menjalan kan suites 
 C. Performance Test
 	a. Metode yang digunakan POST dan Get
+	b. Response Metode Get mendapatkan >1.500ms sedangkan Post mengalami erorr
+	c. Dalam Application Performance Index mendapatkan :
+		- pada label Get : Tolerantion threshold berupa 500ms dengan frustration thershold 1 sec 500 ms
+		- pada label Post : Tolerantion threshold berupa 500ms dengan frustration thershold 1 sec 500 ms
+	d. untuk statistics:
+		- Get tidak mengalami error dengan response times : 2524.00 averange,2524 min ,2524 max,2524 median, lalu untuk throughput 0.40/s
+		- Post  mengalami error dengan response times :30378.00 averange,30378 min ,30378 max,30378 median, lalu untuk throughput 0.03/s
